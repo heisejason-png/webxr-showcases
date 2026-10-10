@@ -20,3 +20,4 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on how to contribut
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
